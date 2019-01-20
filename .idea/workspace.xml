@@ -1,70 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7b3ca2eb-d9c9-4598-981d-29e68142e08b" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../Mypinyougou/.idea/artifacts/pinyougou_manage_web_war.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../Mypinyougou/.idea/artifacts/pinyougou_manage_web_war_exploded.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../Mypinyougou/.idea/artifacts/pinyougou_sellergoods_service_war.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../Mypinyougou/.idea/artifacts/pinyougou_sellergoods_service_war_exploded.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../Mypinyougou/.idea/compiler.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../Mypinyougou/.idea/libraries/Maven__com_alibaba_druid_1_1_5.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../Mypinyougou/.idea/libraries/Maven__com_alibaba_dubbo_2_6_0.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../Mypinyougou/.idea/libraries/Maven__com_alibaba_fastjson_1_2_44.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../Mypinyougou/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_6_0.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../Mypinyougou/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_6_7.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../Mypinyougou/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_6_7.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../Mypinyougou/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_1_0.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../Mypinyougou/.idea/libraries/Maven__com_github_pagehelper_pagehelper_5_1_2.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../Mypinyougou/.idea/libraries/Maven__com_github_sgroschupf_zkclient_0_1.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../Mypinyougou/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../Mypinyougou/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../Mypinyougou/.idea/libraries/Maven__commons_io_commons_io_2_3.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../Mypinyougou/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../Mypinyougou/.idea/libraries/Maven__io_netty_netty_3_10_5_Final.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../Mypinyougou/.idea/libraries/Maven__javax_persistence_persistence_api_1_0.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../Mypinyougou/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../Mypinyougou/.idea/libraries/Maven__jline_jline_0_9_94.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../Mypinyougou/.idea/libraries/Maven__log4j_log4j_1_2_16.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../Mypinyougou/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../Mypinyougou/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_32.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../Mypinyougou/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_1.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../Mypinyougou/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_3.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../Mypinyougou/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_cache_4_2_2.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../Mypinyougou/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_6.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../Mypinyougou/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_2_2.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../Mypinyougou/.idea/libraries/Maven__org_apache_solr_solr_solrj_4_10_4.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../Mypinyougou/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_9.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../Mypinyougou/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_10.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../Mypinyougou/.idea/libraries/Maven__org_codehaus_woodstox_wstx_asl_3_2_7.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../Mypinyougou/.idea/libraries/Maven__org_javassist_javassist_3_20_0_GA.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../Mypinyougou/.idea/libraries/Maven__org_jboss_netty_netty_3_2_5_Final.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../Mypinyougou/.idea/libraries/Maven__org_mybatis_mybatis_3_4_5.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../Mypinyougou/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_1.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../Mypinyougou/.idea/libraries/Maven__org_noggit_noggit_0_5.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../Mypinyougou/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_21.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../Mypinyougou/.idea/libraries/Maven__org_slf4j_slf4j_api_1_6_1.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../Mypinyougou/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_12.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../Mypinyougou/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_21.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../Mypinyougou/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_12.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../Mypinyougou/.idea/libraries/Maven__org_springframework_data_spring_data_commons_1_11_5_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../Mypinyougou/.idea/libraries/Maven__org_springframework_data_spring_data_solr_1_5_5_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../Mypinyougou/.idea/libraries/Maven__org_springframework_spring_aop_4_3_10_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../Mypinyougou/.idea/libraries/Maven__org_springframework_spring_aspects_4_3_10_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../Mypinyougou/.idea/libraries/Maven__org_springframework_spring_beans_4_3_10_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../Mypinyougou/.idea/libraries/Maven__org_springframework_spring_context_4_3_10_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../Mypinyougou/.idea/libraries/Maven__org_springframework_spring_core_4_3_10_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../Mypinyougou/.idea/libraries/Maven__org_springframework_spring_expression_4_3_10_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../Mypinyougou/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_10_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../Mypinyougou/.idea/libraries/Maven__org_springframework_spring_tx_4_1_9_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../Mypinyougou/.idea/libraries/Maven__org_springframework_spring_tx_4_3_10_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../Mypinyougou/.idea/libraries/Maven__org_springframework_spring_web_4_3_10_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../Mypinyougou/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_10_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../Mypinyougou/.idea/libraries/Maven__tk_mybatis_mapper_3_5_0.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../Mypinyougou/.idea/misc.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../Mypinyougou/.idea/modules.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../Mypinyougou/.idea/vcs.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../Mypinyougou/.idea/workspace.xml" afterPath="" />
-    </list>
+    <list default="true" id="7b3ca2eb-d9c9-4598-981d-29e68142e08b" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/../Mypinyougou/pinyougou/target/" />
     <ignored path="$PROJECT_DIR$/../Mypinyougou/pinyougou/pinyougou-common/target/" />
     <ignored path="$PROJECT_DIR$/../Mypinyougou/pinyougou/pinyougou-pojo/target/" />
@@ -86,7 +23,7 @@
         <entry file="file://$PROJECT_DIR$/../Mypinyougou/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="52">
-              <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+              <caret line="2" column="5" lean-forward="true" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -516,7 +453,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1547977086023</updated>
-      <workItem from="1547977087411" duration="14699000" />
+      <workItem from="1547977087411" duration="14718000" />
     </task>
     <task id="LOCAL-00001" summary="提交pinyougou">
       <created>1547991904488</created>
@@ -525,15 +462,21 @@
       <option name="project" value="LOCAL" />
       <updated>1547991904488</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="提交pinyougou">
+      <created>1547992052891</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1547992052891</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14699000" />
+    <option name="totallyTimeSpent" value="14718000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="533" y="0" width="1309" height="1056" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -549,7 +492,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33360323" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33360323" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -864,7 +807,7 @@
     <entry file="file://$PROJECT_DIR$/../Mypinyougou/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="52">
-          <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+          <caret line="2" column="5" lean-forward="true" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
           <folding />
         </state>
       </provider>
