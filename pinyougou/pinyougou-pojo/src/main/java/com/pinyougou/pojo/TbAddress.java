@@ -7,6 +7,7 @@ import javax.persistence.Table;
 import java.io.Serializable;
 import java.util.Date;
 
+
 @Table(name = "tb_address")
 public class TbAddress implements Serializable {
 

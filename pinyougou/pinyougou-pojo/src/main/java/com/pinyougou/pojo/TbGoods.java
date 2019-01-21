@@ -7,6 +7,7 @@ import javax.persistence.Table;
 import java.io.Serializable;
 import java.math.BigDecimal;
 
+
 @Table(name = "tb_goods")
 public class TbGoods implements Serializable {
     @Id
